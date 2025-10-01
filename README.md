@@ -6,7 +6,7 @@ def calculate_average(numbers: List[Union[int, float]]) -> Optional[float]:
     """Вычисляет среднее арифметическое значение списка чисел."""
     
     Args:
-        numbers: Список чисел (int или float) для вычисления среднего
+        numbers: Список чисел (int или float) для вычисления среднегоо
         
     Returns:
         Optional[float]: Среднее значение или None если список пуст
